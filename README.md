@@ -1,4 +1,5 @@
 ESP32 can communicate with other device via Bluetooth using the module HC-06 as slave.
+This code is written in micropython using the EsPy development environment. (https://github.com/jungervin/EsPy)
 
 # Schematics
 ![esp32_HC06_bb](https://user-images.githubusercontent.com/20991217/68524333-7654aa00-02ce-11ea-8a7c-faf674b3c781.png)
