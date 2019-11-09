@@ -6,8 +6,9 @@
 
 # HC-06 configuration
 You can configuring the module HC-06 by runnig the file BT_setup.py
-In this progran you can verify that it is working, modify parameters such as name, PIN code and communication speed in baudrate.
-
+In this progran you can verify that the hardware is working.In this program you can modify parameters such as name, PIN code and communication speed in baudrate.
+![bt1](https://user-images.githubusercontent.com/20991217/68524521-adc45600-02d0-11ea-971d-c3fee5254bec.png)
 
 # Pairing Bluetooth module HC-06
 To pair the module HC-06 to the device run the file BT_hc06.py 
+
